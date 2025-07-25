@@ -28,7 +28,7 @@ See [FEATURES.md](FEATURES.md) for details.
 
 1. Clone the repository.
 ```
-git clone https://github.com/elebitzero/openai-react-chat.git
+git clone https://github.com/malone0323/openai-react-chat.git
 ```
 2. Copy [env.json](src/env.json)  to `local.env.json` and change 'your-api-key-here' to your [OpenAI Key](https://platform.openai.com/account/api-keys)
 3. Build & Run the web server
